@@ -1,5 +1,6 @@
 ### Hi there 👋
-# It's Shahriar saurov, a aspiring software developer.
+# It's Shahriar, a aspiring software developer.
+- 🌱 I’m currently learning React.
 
 <!--
 **ShahSau/ShahSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
