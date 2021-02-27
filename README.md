@@ -1,5 +1,5 @@
-### Hi there 👋 👨🏽‍💻
-# It's Shahriar, a aspiring software developer.
+# Hi there 👋 👨🏽‍💻
+## It's Shahriar, a aspiring software developer.
 - 🔭 I’m currently working on Flask.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/, Email: shahriarksaurov@gmail.com
