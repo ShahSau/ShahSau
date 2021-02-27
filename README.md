@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 👨🏽‍💻
 # It's Shahriar, a aspiring software developer.
 - 🔭 I’m currently working on Flask.
 - 🌱 I’m currently learning React.
