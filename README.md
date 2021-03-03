@@ -4,8 +4,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 - 🔭 I’m currently working on Flask.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/">LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. 
-- ![image](https://user-images.githubusercontent.com/43968918/109793308-274a2b00-7c1d-11eb-9b97-22357bfc5174.png)
- <a href = "mailto: shahriarksaurov@gmail.com">Send Email</a>
+-  📧 <a href = "mailto: shahriarksaurov@gmail.com">Send Email</a>
 
 <!--
 **ShahSau/ShahSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- email 
 -->
