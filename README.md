@@ -3,7 +3,9 @@
 Merging my passion for usability and technology with technical knowledge, I love to create cool digital experiences. ​My goal is to create smooth digital experiences by writing clean and efficient codes that are easy to maintain. I am highly organized, results-oriented, ambitious, adventurous, assiduous​, and able to work in a team or by myself.
 - 🔭 I’m currently working on Flask.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/">LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. <a href = "mailto: shahriarksaurov@gmail.com">Send Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/">LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. 
+- ![image](https://user-images.githubusercontent.com/43968918/109793308-274a2b00-7c1d-11eb-9b97-22357bfc5174.png)
+ <a href = "mailto: shahriarksaurov@gmail.com">Send Email</a>
 
 <!--
 **ShahSau/ShahSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
