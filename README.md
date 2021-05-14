@@ -4,7 +4,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning <a href="https://fullstackopen.com/en/">University of Helsinki Fullstack course </a>. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/">LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. 
-- email  📧 <a href = "mailto: shahriarksaurov@gmail.com">Send Email</a>
+- email  📧 <a href = "mailto: shahriarksaurov@gmail.com">Say Hi</a>
 
 <!--
 **ShahSau/ShahSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
