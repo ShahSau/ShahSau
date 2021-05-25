@@ -3,9 +3,9 @@
 Merging my passion for usability and technology with technical knowledge, I love to create cool digital experiences. ​My goal is to create smooth digital experiences by writing clean and efficient codes that are easy to maintain. I am highly organized, results-oriented, ambitious, adventurous, assiduous​, and able to work in a team or by myself.
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning <a href="https://fullstackopen.com/en/">University of Helsinki Fullstack course </a>. 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/">LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. 
-- email  📧 <a href = "mailto: shahriarksaurov@gmail.com">Say Hi</a>
-
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/"> LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. 
+- email  📧 <a href = "mailto: shahriarksaurov@gmail.com"> Say Hi</a>
+<img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **ShahSau/ShahSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
