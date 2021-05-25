@@ -9,12 +9,14 @@ Merging my passion for usability and technology with technical knowledge, I love
 ## ✉️ Find me on:
 
 
-<p align="center">
- <a href="" target="_blank" rel="noopener noreferrer"> <img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"> </a>
- <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/" target="_blank" rel="noopener noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:0px 10px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
+<p align="right">
+ <a href="" target="_blank" rel="noopener noreferrer"> <img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>
+ <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/" target="_blank" rel="noopener noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
-- email  📧  <a href = "mailto: shahriarksaurov@gmail.com"> Say Hi</a>
+ email  📧  <a href = "mailto: shahriarksaurov@gmail.com"> Say Hi</a>
+
+##
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **ShahSau/ShahSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
