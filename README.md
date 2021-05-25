@@ -12,9 +12,9 @@ Merging my passion for usability and technology with technical knowledge, I love
 <p align="center">
  <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/" target="_blank" rel="noopener noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
+ <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
+ <a href="mailto:shahriarksaurov@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
- email  📧  <a href = "mailto: shahriarksaurov@gmail.com"> Say Hi</a>
 
 ##
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
