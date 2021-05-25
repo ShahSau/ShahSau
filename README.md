@@ -5,6 +5,15 @@ Merging my passion for usability and technology with technical knowledge, I love
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning <a href="https://fullstackopen.com/en/">University of Helsinki Fullstack course </a>. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/"> LinkedIn </a>, <a href="https://twitter.com/saurov_shahriar"> Twitter </a>. 
+
+## ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 - email  📧  <a href = "mailto: shahriarksaurov@gmail.com"> Say Hi</a>
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
