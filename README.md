@@ -9,7 +9,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 ## ✉️ Find me on:
 
 
-<p align="right">
+<p align="center">
  <a href="" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>
  <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>
  <a href="mailto:cioannou1997@gmail.com"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
