@@ -2,10 +2,10 @@
 # Hi there 👋 👨🏽‍💻
 ## It's Shahriar, an aspiring software developer.
 Merging my passion for usability and technology with technical knowledge, I love to create cool digital experiences. ​My goal is to create smooth digital experiences by writing clean and efficient codes that are easy to maintain. I am highly organized, results-oriented, ambitious, adventurous, assiduous​, and able to work in a team or by myself.
-- 🔭 I’m currently working on React.
-- 🌱 I’m currently learning <a href="https://fullstackopen.com/en/">University of Helsinki Fullstack course </a>. 
-- 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about anything about programming.
+- 🔭  I’m currently working on React.
+- 🌱  I’m currently learning <a href="https://fullstackopen.com/en/">University of Helsinki Fullstack course </a>. 
+- 👯  I’m looking to collaborate on any project.
+- 💬  Ask me about anything about programming.
 
 
 ## ✉️ Let's connect:
