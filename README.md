@@ -23,7 +23,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1280px-Django_logo.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/330px-Flask_logo.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/330px-Node.js_logo.svg.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/180px-C_Sharp_wordmark.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
