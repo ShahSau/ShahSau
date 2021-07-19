@@ -32,8 +32,8 @@ Merging my passion for usability and technology with technical knowledge, I love
 </p>
 
 
-## :trophy: My Github Stats:
-<!-- <div align="center">
+<!-- ## :trophy: My Github Stats:
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shahsau&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  </div> -->
