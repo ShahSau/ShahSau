@@ -15,7 +15,7 @@ Merging my passion for usability and technology with technical knowledge, I love
  <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="mailto:shahriarksaurov@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
-
+ 
 
 ## 🧰 Languages and Tools:
 <p align="center">
