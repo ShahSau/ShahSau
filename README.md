@@ -10,7 +10,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 
 ## ✉️ Let's connect:
 <p align="center">
- <a href="https://shahsau.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://png.pngtree.com/element_our/20190528/ourlarge/pngtree-white-earth-free-map-image_1134433.jpg" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
+ <a href="https://shahsau.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/" target="_blank" rel="noopener noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="mailto:shahriarksaurov@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
