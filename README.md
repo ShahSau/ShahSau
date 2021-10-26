@@ -39,9 +39,9 @@ Merging my passion for usability and technology with technical knowledge, I love
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-                         
-                                                         
- 
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="native" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  
 </div>
 
