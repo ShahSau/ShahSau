@@ -50,7 +50,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
 <!-- <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shahsau&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
  
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=cobalt&hide_border=true" />
  </div> 
