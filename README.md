@@ -20,7 +20,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 
 ## 🧰 Languages and Tools:
 <div align="center">
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<!--
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/330px-Flask_logo.svg.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
