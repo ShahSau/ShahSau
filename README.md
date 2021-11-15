@@ -34,7 +34,7 @@ Merging my passion for usability and technology with technical knowledge, I love
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- 
+ <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-UI" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
  ## :trophy: My Github Stats:
