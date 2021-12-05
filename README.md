@@ -41,6 +41,7 @@ Merging my passion for usability and technology with technical knowledge, I love
  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="35" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
+
  ## :trophy: My Github Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
