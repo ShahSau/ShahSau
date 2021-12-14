@@ -11,7 +11,7 @@ Merging my passion for usability and technology with technical knowledge, I love
 
 ## ✉️ Let's connect:
 <p align="center">
- <a href="https://shahsau.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
+ <a href="https://shahsau.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-website-blue" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/shahriar-karim-saurov-53a6ba4b/" target="_blank" rel="noopener noreferrer"> <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer"> <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="40" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="mailto:shahriarksaurov@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="40" style="vertical-align:top; margin:10px"></a>
