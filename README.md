@@ -20,7 +20,8 @@ and able to work in a team or by myself.
 </p>
  
 
-## 🧰 Languages and Tools:
+## ![image](https://user-images.githubusercontent.com/43968918/147461201-437c1051-d921-4f72-b87b-4042dd6a9a4d.png) Languages and Tools: 
+
 
 ### Languages:
 <div align="center">
@@ -28,22 +29,33 @@ and able to work in a team or by myself.
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c-sharp" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
+### Frontend:
 <div align="center">
-
-
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src=" https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="native" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ </div>
+ 
+ ### Backend:
+ <div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-REST%20API-blueviolet" alt="Rest Api" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  </div>
+ 
+
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="native" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+
  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
