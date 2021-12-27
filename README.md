@@ -20,7 +20,7 @@ and able to work in a team or by myself.
 </p>
  
 
-## ![image](https://user-images.githubusercontent.com/43968918/147461201-437c1051-d921-4f72-b87b-4042dd6a9a4d.png) Languages and Tools: 
+## 🧰 Languages and Tools: 
 
 
 ### Languages:
@@ -28,7 +28,9 @@ and able to work in a team or by myself.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c-sharp" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src=" https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
+
 ### Frontend:
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -50,14 +52,26 @@ and able to work in a team or by myself.
  <img src="https://img.shields.io/badge/-REST%20API-blueviolet" alt="Rest Api" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   </div>
  
+ ### Testing & Cloud:
+ <div align="center">
+ <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://github.com/ShahSau/portfolio_github/blob/main/src/img/skills/mocha.png?raw=true" alt="mocha" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src=" 	https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ </div>
+
+
+### Database:
+
+	
 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="native" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 
- <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ 
 </div>
 
 
