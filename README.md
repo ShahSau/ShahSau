@@ -8,7 +8,6 @@ Merging my passion for usability and technology with technical knowledge, I love
 - 👯  I’m looking to collaborate on any project.
 - 💬  Ask me about anything about programming.
 
-
 ## ✉️ Let's connect:
 <p align="center">
  <a href="https://shahsau.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="35" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
@@ -17,7 +16,6 @@ Merging my passion for usability and technology with technical knowledge, I love
  <a href="mailto:shahriarksaurov@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="35" style="vertical-align:top; margin:10px"></a>
 </p>
  
-
 ## 🧰 Languages and Tools: 
 
 ### Languages:
@@ -63,7 +61,6 @@ Merging my passion for usability and technology with technical knowledge, I love
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  </div>
 
-
 ### Database & API:
 <div align="center">
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -82,13 +79,9 @@ Merging my passion for usability and technology with technical knowledge, I love
 </div>
 
 
-
  ## :trophy: My Github Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=dark&hide_border=true" />
  </div> 
-
-
-
