@@ -17,7 +17,6 @@ Merging my passion for usability and technology with technical knowledge, I love
 </p>
  
 ## 🧰 Languages and Tools: 
-
 ### Languages:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
