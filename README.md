@@ -36,7 +36,7 @@ Merging my passion for usability and technology with technical knowledge, I love
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
  </div>
  
  ### Backend:
@@ -45,16 +45,16 @@ Merging my passion for usability and technology with technical knowledge, I love
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django-rest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<!--    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  </div>
    
  ### Testing & Cloud:
  <div align="center">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<!--  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -66,7 +66,7 @@ Merging my passion for usability and technology with technical knowledge, I love
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;	
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;	
 <img src="https://img.shields.io/badge/restapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="Rest Api" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
 </div>
 
 ### Others:
