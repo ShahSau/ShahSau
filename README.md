@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hi there 👋 
-## It's Shahriar, a software developer.
+## It's Shahriar, yet another software developer.
 <!-- Merging my passion for usability and technology with technical knowledge, I love to create cool digital experiences using robust cutting-edge technology. My goal is to create smooth digital experiences by writing clean and efficient codes that are easy to maintain. I have knowledge and experience in building web apps using technologies including but not limited to Javascript, React, Node, Django, Redux, Typescript, MongoDb, PostgreSql.  I am highly organized, results-oriented, ambitious,  adventurous, assiduous , and able to work in a team or by myself.
 
 - 👨🏽‍💻  I'm working as a software developer.
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django-rest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <!--    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
 <!--  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
-<!--   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  </div>
    
