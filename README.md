@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hi there 👋 
-## It's Shahriar, yet another software developer.
+## It's Shahriar, a software developer.
 
 - 🔭  I’m currently sharpening my knowledge of React Native.
 - 👯  I’m looking to collaborate on any interesting project.
