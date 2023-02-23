@@ -44,6 +44,8 @@
 <!--  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
+
  </div>
  
  ### Backend:
