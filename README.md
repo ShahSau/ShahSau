@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently sharpening my knowledge of React Native.
 - 👯  I’m looking to collaborate on any interesting project.
-- 💬  Ask me about anything about programming .
+- 💬  Ask me anything about programming .
 
 <!-- Merging my passion for usability and technology with technical knowledge, I love to create cool digital experiences using robust cutting-edge technology. My goal is to create smooth digital experiences by writing clean and efficient codes that are easy to maintain. I have knowledge and experience in building web apps using technologies including but not limited to Javascript, React, Node, Django, Redux, Typescript, MongoDb, PostgreSql.  I am highly organized, results-oriented, ambitious,  adventurous, assiduous , and able to work in a team or by myself.
 
