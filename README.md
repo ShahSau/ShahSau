@@ -6,8 +6,9 @@
 - 👯  I’m looking to collaborate on any interesting project.
 - 💬  Ask me anything about programming .
 
-<!-- Merging my passion for usability and technology with technical knowledge, I love to create cool digital experiences using robust cutting-edge technology. My goal is to create smooth digital experiences by writing clean and efficient codes that are easy to maintain. I have knowledge and experience in building web apps using technologies including but not limited to Javascript, React, Node, Django, Redux, Typescript, MongoDb, PostgreSql.  I am highly organized, results-oriented, ambitious,  adventurous, assiduous , and able to work in a team or by myself.
+Full-stack developer with a passion for building scalable robust web applications. Experienced in JavaScript, Python, React, NextJs, Gatsby, Angular, Nodejs, Expressjs, Django, and  MongoDB. Currently working as a developer in the Electronics Manufacturing industry. Strong understanding of database design and API integration. Committed to writing clean, efficient, and maintainable code. Open to collaboration and always learning something new. Check out my website at example.com for more information and projects.
 
+<!--
 - 👨🏽‍💻  I'm working as a software developer.
 - 🔭  I’m currently sharpening my knowledge of Typescript and Redux.
 - 👯  I’m looking to collaborate on any project.
