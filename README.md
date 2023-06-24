@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hi there 👋 
-## It's Shahriar, a fullstack developer.
+## It's Shahriar, a full stack developer.
 <div>
 <div align="center">
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -95,9 +95,12 @@ Full-stack developer with a passion for building scalable robust web application
 <!--   <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHUbAction" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
 </div>
 
+<!--
  ## :trophy: My Github Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
 <!-- <img  src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />-->
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=dark&hide_border=true" /> -->
+<!-- 
  </div> 
+-->
