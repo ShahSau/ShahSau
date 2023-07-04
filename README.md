@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hi there 👋 
 ## It's Shahriar, a full-stack developer.
-<div >
+<div height=250>
 <div>
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right"/>
 </div>
