@@ -9,7 +9,7 @@
 <!-- - 🔭  I’m currently sharpening my knowledge of React Native.
 - 👯  I’m looking to collaborate on any interesting project.
 - 💬  Ask me anything about programming. -->
-<p align="left">>
+<p align="left">
 Full-stack developer with a passion for building scalable robust web applications. I am experienced in JavaScript, Python, React, NextJs, Gatsby, Angular, Nodejs, Expressjs, Django, and  MongoDB. I am currently working as a developer in the Electronics Manufacturing industry. Strong understanding of database design and API integration. I am committed to writing clean, efficient, and maintainable code. Open to collaboration and always learning something new. Check out <a href="https://shahsau.herokuapp.com/"> my website </a> for more information and projects.
 </p>
 </div>
