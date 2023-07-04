@@ -11,7 +11,8 @@
 - 💬  Ask me anything about programming. -->
 <div>
 <p align="left" height=250 width=350>
-Full-stack developer with a passion for building scalable robust web applications. I am experienced in JavaScript, Python, React, NextJs, Gatsby, Angular, Nodejs, Expressjs, Django, and  MongoDB. I am currently working as a developer in the Electronics Manufacturing industry. Strong understanding of database design and API integration. I am committed to writing clean, efficient, and maintainable code. Open to collaboration and always learning something new. Check out <a href="https://shahsau.herokuapp.com/"> my website </a> for more information and projects.
+Full-stack developer with a passion for building scalable robust web applications. I am experienced in JavaScript, Python, React, NextJs, Gatsby, Angular, Nodejs, Expressjs, Django, and  MongoDB. I am currently working as a developer in the Electronics Manufacturing industry. Strong understanding of database design and API integration. I am committed to writing clean, efficient, and maintainable code. Open to collaboration and always learning something new. I have strong interpersonal skills and have the ability to handle pressure and meet deadlines.
+Check out <a href="https://shahsau.herokuapp.com/"> my website </a> for more information and projects.&nbsp;&nbsp;
 </p>
 </div>
 </div>
