@@ -1,9 +1,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hi there 👋 
 ## It's Shahriar, a full-stack developer.
-<div align="center">
+<div >
 <div>
-  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right"/>
 </div>
 
 <!-- - 🔭  I’m currently sharpening my knowledge of React Native.
