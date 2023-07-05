@@ -1,21 +1,21 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hi there 👋 
 ## It's Shahriar, a full-stack developer.
-<div>
+<!-- - <div>
 <div>
   <img alt="Coder GIF" height=200 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right"/>
-</div>
+</div>-->
 
 <!-- - 🔭  I’m currently sharpening my knowledge of React Native.
 - 👯  I’m looking to collaborate on any interesting project.
 - 💬  Ask me anything about programming. -->
-<div>
-<p align="left" height=250 width=350>
+<!-- <div>-->
+<p>
 Full-stack developer with a passion for building scalable robust web applications. I am experienced in JavaScript, Python, React, NextJs, Gatsby, Angular, Nodejs, Expressjs, Django, and  MongoDB. I am currently working as a developer in the Electronics Manufacturing industry. Strong understanding of database design and API integration. I am committed to writing clean, efficient, and maintainable code. Open to collaboration and always learning something new. I have strong interpersonal skills and have the ability to handle pressure and meet deadlines.&nbsp;&nbsp;
 Check out <a href="https://shahsau.herokuapp.com/"> my website </a> for more information and projects.
 </p>
-</div>
-</div>
+<!-- <div>-->
+<!-- <div>-->
 <!--
 - 👨🏽‍💻  I'm working as a software developer.
 - 🔭  I’m currently sharpening my knowledge of Typescript and Redux.
