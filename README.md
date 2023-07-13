@@ -39,6 +39,8 @@ Check out <a href="https://shahsau.herokuapp.com/"> my website </a> for more inf
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
+<!-ALL badges-->
+<!--https://github.com/Ileriayo/markdown-badges-->
 ### Frontend:
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -54,6 +56,7 @@ Check out <a href="https://shahsau.herokuapp.com/"> my website </a> for more inf
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
+ <img src="![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)">
 
  </div>
  
