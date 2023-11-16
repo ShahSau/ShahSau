@@ -15,7 +15,7 @@ Building Solutions for a Digital Future by bridging the Gap Between Frontend Mag
 <!-- <div>-->
 <p>
 Full-stack developer with a passion for building scalable robust web applications. I am experienced in JavaScript, Python, React, NextJs, Gatsby, Angular, Nodejs, Expressjs, Django, and  MongoDB. I am currently working as a developer in the Electronics Manufacturing industry. Strong understanding of database design and API integration. I am committed to writing clean, efficient, and maintainable code. Open to collaboration and always learning something new. I have strong interpersonal skills and can handle pressure and meet deadlines.&nbsp;&nbsp;
-Check out <a href="https://shahsau.vercel.app//"> my website </a> for more information and projects.
+<!-- Check out <a href="https://shahsau.vercel.app//"> my website </a> for more information and projects. -->
 </p>
 <!-- <div>-->
 <!-- <div>-->
