@@ -27,7 +27,7 @@ Check out <a href="https://shahsau.vercel.app//"> my website </a> for more infor
 
 ## ✉️ Let's connect:
 <p align="center">
-<!--  <a href="https://shahsau.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="35" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp; -->
+ <a href="https://shahsau.vercel.app/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="35" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/shahriar-saurov/" target="_blank" rel="noopener noreferrer"> <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="35" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer"> <img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="35" style="vertical-align:top; margin:0px 10px"></a>&nbsp;&nbsp;
  <a href="mailto:shahriarksaurov@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="35" style="vertical-align:top; margin:10px"></a>
