@@ -45,7 +45,7 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=whitee" alt="Angular" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"  alt="RXJS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <!--  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
@@ -53,7 +53,7 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
- <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="zystand" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="zystand" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
 
 
  </div>
