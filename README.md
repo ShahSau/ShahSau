@@ -53,7 +53,7 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
- <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="zystand" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="zystand" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
 
 
  </div>
