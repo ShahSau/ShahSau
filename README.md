@@ -93,18 +93,18 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
 ### Others:
 <div align="center">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="native" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src='https://img.shields.io/badge/Openlayers-100000?style=for-the-badge&logo=openlayers&logoColor=white&labelColor=41C73F&color=34CA52'  alt="openlayers" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src='https://img.shields.io/badge/Openlayers-100000?style=for-the-badge&logo=openlayers&logoColor=white&labelColor=41C73F&color=34CA52'  alt="openlayers" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/zod-2ea44f?logo=zod&logoColor=%23f0f0f0&style=for-the-badge" alt="zod"height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
- <!-- ## :trophy: My Github Stats:
+ ## :trophy: My Github Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >
 <!-- <img  src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=dark&hide_border=true" />
- </div> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=dark&hide_border=true" />
+ </div>
