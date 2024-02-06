@@ -96,10 +96,10 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src='https://img.shields.io/badge/Openlayers-100000?style=for-the-badge&logo=openlayers&logoColor=white&labelColor=41C73F&color=34CA52'  alt="openlayers" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHUbAction" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src='https://img.shields.io/badge/Openlayers-100000?style=for-the-badge&logo=openlayers&logoColor=white&labelColor=41C73F&color=34CA52'  alt="openlayers" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/zod-2ea44f?logo=zod&logoColor=%23f0f0f0&style=for-the-badge" alt="zod"height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
  <!-- ## :trophy: My Github Stats:
