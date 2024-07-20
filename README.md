@@ -16,7 +16,8 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
 🔍 My commitment to staying on the pulse of technological advancements drives me to continuously refine my skills. I'm a firm believer in the power of clean code, agile methodologies, and collaborative development practices. Let's connect and explore the endless possibilities of transforming ideas into tangible, tech-driven realities.
 
 
-🌐 Let's build the future together! Open to exciting opportunities, collaboration, and tech discussions. Feel free to reach out – whether you're looking for a seasoned developer, want to discuss the latest tech trends, or just share your favorite coding memes. Let's code and conquer! 💡 #FullStackDeveloper #TechInnovation #CodeCraftsman #ContinuousLearner
+🌐 Let's build the future together! Open to exciting opportunities, collaboration, and tech discussions. Feel free to reach out – whether you're looking for a seasoned developer, want to discuss the latest tech trends, or just share your favorite coding memes. Let's code and conquer!
+<!-- 💡 #FullStackDeveloper #TechInnovation #CodeCraftsman #ContinuousLearner -->
 
 ## ✉️ Let's connect:
 <p align="center">
