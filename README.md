@@ -3,13 +3,6 @@
 
 👨‍💻 Welcome to my digital realm! I'm Shahriar, an accomplished Full Stack Developer with a passion for turning complex challenges into elegant solutions. With a robust background in both frontend and backend development, I thrive in crafting seamless, user-centric applications.
 
-<!-- 🛠️ Key Skills:
-
-Frontend:HTML5, CSS3, Javascript, React, Redux, Typescript, Angular, RXJS, NextJS, Gatsby, Tailwind 
- CSS, Material UI, Chakra
-Backend: Python, Go, NodeJs, ExpressJS, Django, Django REST, JWT
-Database: PostgreSQL, MongoDB, SQLLite, Redis, Prisma
-Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
 
 🚀 My journey in the tech realm has equipped me with a versatile skill set, spanning from crafting pixel-perfect user interfaces to architecting resilient server-side systems. Whether it's building intuitive user experiences, optimizing database performance, or orchestrating seamless integrations, I relish the challenge of creating cohesive and cutting-edge applications.
 
@@ -17,7 +10,7 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
 
 
 🌐 Let's build the future together! Open to exciting opportunities, collaboration, and tech discussions. Feel free to reach out – whether you're looking for a seasoned developer, want to discuss the latest tech trends, or just share your favorite coding memes. Let's code and conquer!
-<!-- 💡 #FullStackDeveloper #TechInnovation #CodeCraftsman #ContinuousLearner -->
+
 
 ## ✉️ Let's connect:
 <p align="center">
@@ -110,5 +103,5 @@ Others: GraphQL, RestAPI, Jest, Cypress, Figma, Docker, React Native -->
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" > 
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=dark&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahsau&layout=compact&theme=dark&hide_border=true" /> -->
 </div>
