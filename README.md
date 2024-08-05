@@ -11,7 +11,6 @@
 
 🌐 Let's build the future together! Open to exciting opportunities, collaboration, and tech discussions. Feel free to reach out – whether you're looking for a seasoned developer, want to discuss the latest tech trends, or just share your favorite coding memes. Let's code and conquer!
 
-
 ## ✉️ Let's connect:
 <p align="center">
  <a href="https://shahsau.vercel.app/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="35" style="vertical-align:top; margin:10px"> </a>&nbsp;&nbsp;
