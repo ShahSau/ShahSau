@@ -1,5 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
-# Hi there 👋 
+# Hello there 👋 
 
 👨‍💻 Welcome to my digital realm! I'm Shahriar, an accomplished Full Stack Developer with a passion for turning complex challenges into elegant solutions. With a robust background in both frontend and backend development, I thrive in crafting seamless, user-centric applications.
 
