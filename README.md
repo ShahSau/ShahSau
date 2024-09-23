@@ -1,13 +1,21 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=shahsau.shahsau)
 # Hello there 👋 
 
-👨‍💻 Welcome to my digital realm! I'm Shahriar, an accomplished Full Stack Developer with a passion for turning complex challenges into elegant solutions. With a robust background in both frontend and backend development, I thrive in crafting seamless, user-centric applications.
+<!--  👨‍💻 Welcome to my digital realm! I'm Shahriar, an accomplished Full Stack Developer with a passion for turning complex challenges into elegant solutions. With a robust background in both frontend and backend development, I thrive in crafting seamless, user-centric applications.
 
 🚀 My journey in the tech realm has equipped me with a versatile skill set, spanning from crafting pixel-perfect user interfaces to architecting resilient server-side systems. Whether it's building intuitive user experiences, optimizing database performance, or orchestrating seamless integrations, I relish the challenge of creating cohesive and cutting-edge applications.
 
 🔍 My commitment to staying on the pulse of technological advancements drives me to continuously refine my skills. I'm a firm believer in the power of clean code, agile methodologies, and collaborative development practices. Let's connect and explore the endless possibilities of transforming ideas into tangible, tech-driven realities.
 
-🌐 Let's build the future together! Open to exciting opportunities, collaboration, and tech discussions. Feel free to reach out – whether you're looking for a seasoned developer, want to discuss the latest tech trends, or just share your favorite coding memes. Let's code and conquer!
+🌐 Let's build the future together! Open to exciting opportunities, collaboration, and tech discussions. Feel free to reach out – whether you're looking for a seasoned developer, want to discuss the latest tech trends, or just share your favorite coding memes. Let's code and conquer! -->
+
+👨‍💻 Welcome to my digital realm!elcome to my digital realm! I'm Shahriar, an experienced Full Stack Developer with a Master's degree in Materials Science from the University of Helsinki. I'm passionate about creating elegant and user-centric digital solutions that leverage cutting-edge technologies and best practices.
+
+Currently, I'm a Web Engineer at Grundium, where I develop device testing software for portable microscopes, using a sophisticated tech stack that includes React, Next.js, Express, Cypress, TypeScript, Zod, Jenkins, Recoil, and AWS. I also enhance and refine the functionality of our current microscope user software, employing Angular, RxJS, OpenLayers, Express, MongoDB, and Jest. Previously, I worked as a consultant software engineer at Mentura Group Oy and Integrify, implementing software solutions for optimizing network coverage and performance, and collaborating on diverse client projects.
+
+I have a versatile skill set, ranging from crafting pixel-perfect user interfaces to architecting resilient server-side systems. I excel in frontend and backend development, using frameworks and tools such as HTML5, CSS3, Javascript, Python, Django, PostgreSQL, GraphQL, RestAPI, Jest, Cypress, Docker, React Native, Linux, and C. I'm always eager to learn new skills and stay abreast of technological advancements. I believe in the power of clean code, agile methodologies, and collaborative development practices.
+
+I am open to new exciting opportunities that align with my passion for coding. If you believe you have an opening that resonates with my interests, let's connect
 
 ## ✉️ Let's connect:
 <p align="center">
