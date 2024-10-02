@@ -28,9 +28,10 @@ I am open to new exciting opportunities that align with my passion for coding. I
 ### Languages:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="golang" height="30" width="100" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="golang" height="30" width="100" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
 <!--ALL badges-->
@@ -40,7 +41,6 @@ I am open to new exciting opportunities that align with my passion for coding. I
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
