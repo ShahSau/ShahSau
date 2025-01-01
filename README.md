@@ -48,8 +48,11 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
   <a href="https://www.linkedin.com/in/shahriar-saurov/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="margin:10px">
   </a>
-  <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://twitter.com/saurov_shahriar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35" style="margin:10px">
+  </a> -->
+  <a href="https://www.xing.com/profile/Shahriar_Saurov/web_profiles" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing" height="35" style="margin:10px">
   </a>
   <a href="mailto:shahriarksaurov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" style="margin:10px">
@@ -81,7 +84,7 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
   <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"  alt="RXJS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
+<!--   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;  -->
 <!--   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;  -->
   <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="zystand" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="astro" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
@@ -97,8 +100,9 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django-rest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Go%20Fiber-gray?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="apollo-graphq" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin" alt="Gin-go" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin&logoColor=white" alt="Gin-go" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
 ### ☁️ Cloud & Testing:
