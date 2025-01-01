@@ -51,6 +51,7 @@ I'm open to new exciting opportunities, collaboration, and tech discussions. Let
  <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django-rest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
@@ -64,6 +65,7 @@ I'm open to new exciting opportunities, collaboration, and tech discussions. Let
  <div align="center">
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
