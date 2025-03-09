@@ -8,9 +8,15 @@ I'm **Shahriar**, a passionate **Full Stack Developer** with a **Master’s degr
 
 🌟 **Current Role**:
  - **Full Stack Developer** at **Qibb**:
-   - Developing scalable microservices and APIs for qibb, a media integration platform, using `Angular`, `Nest.js`, `Node.js`, `Next.js`, `Gin`, `Docker`, and `Kubernetes`. Deployed containerized solutions across cloud platforms like `AWS`, and `GCP`.
-   - Collaborating in an agile team to deliver full-stack solutions, translating user stories into efficient, high-quality software using `TypeScript`, `JavaScript`, `Go` and modern frameworks.
-   - Ensured software reliability and performance through rigorous testing, debugging, and documentation, while promoting best practices in code quality and scalability.
+   - Develop cutting-edge microservices to enhance qibb, an innovative integration platform revolutionizing the media and broadcast industry, while designing and implementing scalable APIs to connect third-party services for media companies.
+
+   - Design containerized solutions using `Docker` and `Kubernetes`, contributing to microservices architecture and deployment strategies across `AWS` and `GCP` cloud platforms.
+
+   - Deliver full-stack code leveraging `Angular`, `Nest.js`, `Node.js`, `Next.js`, `Go`, and `Fiber` to build robust, user-friendly components that address complex media integration challenges.
+
+   - Collaborate in an agile team environment, translating user stories and requirements into efficient, high-quality software solutions using `TypeScript`, `JavaScript`, and modern frameworks.
+
+   - Ensure software reliability and performance through rigorous testing, debugging, and documentation, while championing best practices in code quality to deliver maintainable and scalable software.
 
 
 🌟 **Previous Roles**:
