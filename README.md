@@ -17,6 +17,8 @@ I'm **Shahriar**, a passionate **Full Stack Developer** with a **Master’s degr
    - Collaborate in an agile team environment, translating user stories and requirements into efficient, high-quality software solutions using `TypeScript`, `JavaScript`, and modern frameworks.
 
    - Ensure software reliability and performance through rigorous testing, debugging, and documentation, while championing best practices in code quality to deliver maintainable and scalable software.
+     
+   - Designed and optimized database architectures using `MongoDB` for flexible document storage and `PostgreSQL` for complex relational data, implementing efficient query patterns and indexing strategies to improve application performance.
 
 
 🌟 **Previous Roles**:
