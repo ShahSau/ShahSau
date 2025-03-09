@@ -15,13 +15,29 @@ I'm **Shahriar**, a passionate **Full Stack Developer** with a **Master’s degr
 
 🌟 **Previous Roles**:
 - **Web Engineer** at **Grundium**:
-  - Developing device testing software with `React`, `Next.js`, `Express`, `Cypress`, `TypeScript`, `Zod`, `Jenkins`, `AWS`, `Go`, and `Gin`, focusing on performance metrics and clean code.
-  - Enhancing current microscope user software with `Angular`, `RxJS`, `OpenLayers`, `MongoDB`, and `Jest` for seamless control and feature integration.
-  - Contributing to next-gen microscope software using `Next.js`, `Node.js`, `Express`, `Cypress`, `Jest`, and `TypeScript` to revolutionize user experiences in portable microscopy. 
+   - Developed cutting-edge device testing software for evaluating performance and usability metrics using `React`, `Next.js`, `Express`, `TypeScript`, `Zod`, `TailwindCSS`, `PostgreSQL`, `AWS`, `Go`, and `Gin`, implementing clean code and DRY methodologies.
+
+   - Enhanced and maintained microscope user software by integrating new features and ensuring seamless control over portable microscopes through `Angular`, `RxJS`, `OpenLayers`, `Express`, `MongoDB`, and `Jest`.
+
+   - Played a pivotal role in developing next-generation microscope user software with `Next.js`, `Express`, `Node.js`, `Cypress`, `Jest`, `Kafka`, `Graphql`, and `TypeScript`, creating an advanced platform to revolutionize portable microscopy user experiences.
+
+   - Collaborated cross-functionally with hardware engineers, UX designers, and product managers to align software capabilities with microscope hardware specifications, resulting in optimized performance and a more cohesive user experience.
+
+   - Implemented comprehensive testing strategies using Cypress for end-to-end testing and Jest for unit testing, ensuring high-quality software delivery and reliability across all applications.
+
+   - Architected and implemented critical components for next-generation microscopy software, creating intuitive interfaces that simplified complex workflows and reduced training time by 40% for end users in laboratory environments.
 
 - **Software Developer** at **Mentura Group**:
-  - Optimized network coverage and performance for TETRA, mobile, and LTE devices using `Recoil`, `RxJS`, `OpenLayers`, and `Kafka Streams` for real-time insights and interactive maps.
-  - Developed resilient backends with `Node.js`, `Express.js`, `MongoDB`, and `Redis`, while creating responsive interfaces with `React.js` and `Material UI`. Ensured quality with automated testing using `Cypress` and `Jest`.
+  - Optimized network coverage and performance for TETRA, mobile, and LTE devices using `Recoil` for state management and `RxJS` for handling complex data streams, ensuring seamless operation across platforms.
+
+  - Developed responsive user interfaces with `React`, `D3.js` and `Material UI` that displayed real-time network metrics on interactive maps using `OpenLayers`.
+
+  - Designed and implemented resilient backend infrastructure with `Node.js`, `Express.js`, and `Django` integrating `MongoDB` and `Redis` for efficient data management.
+
+  - Utilized `Kafka` Streams for real-time processing of network data, enabling in-depth analytics and performance insights.
+
+  - Implemented comprehensive automated testing with `Cypress` for end-to-end testing and `Jest` for unit testing, ensuring reliable performance and high-quality software delivery.
+
  
 - **Software Engineer** at **Integrify**:
   - Designed and developed customer-focused full-stack applications, enhancing functionality and scalability using `React`, `Redux`, `Node.js`, `Express`, `Django`, and `TypeScript`.
