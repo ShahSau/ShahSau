@@ -24,8 +24,9 @@ I'm **Shahriar**, a passionate **Full Stack Developer** with a **Master’s degr
   - Developed resilient backends with `Node.js`, `Express.js`, `MongoDB`, and `Redis`, while creating responsive interfaces with `React.js` and `Material UI`. Ensured quality with automated testing using `Cypress` and `Jest`.
  
 - **Software Engineer** at **Integrify**:
-  - Designed and developed customer-focused full-stack applications, enhancing functionality and scalability using `React`, `Redux`, `Node.js`, `Express`, and `TypeScript`.
+  - Designed and developed customer-focused full-stack applications, enhancing functionality and scalability using `React`, `Redux`, `Node.js`, `Express`, `Django`, and `TypeScript`.
   - Leveraged `AWS`, `Terraform`, and `Jest` to ensure robust infrastructure, seamless deployment, and high-quality software delivery that exceeded client expectations.
+  - Implemented robust database solutions using `PostgreSQL` and `MongoDB`, while ensuring comprehensive test coverage through `Jest` unit tests and `Cypress` end-to-end testing, resulting in more reliable applications with fewer production bugs.
 
 🌟 **Passions & Beliefs**:
 - Clean code, agile methodologies, and collaboration are the foundation of all my work.
