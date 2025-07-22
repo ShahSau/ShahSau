@@ -122,12 +122,11 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django-rest" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="Fast-API" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Go%20Fiber-gray?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="apollo-graphq" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin&logoColor=white" alt="Gin-go" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
@@ -150,11 +149,11 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/restapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="Rest Api" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-
 </div>
 
 ### 🎯 Others:
@@ -169,7 +168,7 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="native" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
- 
+ <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="apollo-graphq" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 </div>
 
 ---
