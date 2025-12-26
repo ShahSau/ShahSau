@@ -180,10 +180,10 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
 
 ---
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" > 
-<!--  <img  src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
-</div>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=shahsau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My github stats" >  -->
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com?user=shahsau&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
+<!-- </div>
 
----
+--- -->
