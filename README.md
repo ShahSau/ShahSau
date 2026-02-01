@@ -105,6 +105,8 @@ I'm always open to **new opportunities**, **collaborations**, and **tech discuss
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"  alt="RXJS" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="material-UI" height="30" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
